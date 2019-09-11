@@ -1,0 +1,11 @@
+D:\Eduardo Interno\Workshops\VS Codes\POO\bin\Debug\netcoreapp2.1\POO.deps.json
+D:\Eduardo Interno\Workshops\VS Codes\POO\bin\Debug\netcoreapp2.1\POO.runtimeconfig.json
+D:\Eduardo Interno\Workshops\VS Codes\POO\bin\Debug\netcoreapp2.1\POO.runtimeconfig.dev.json
+D:\Eduardo Interno\Workshops\VS Codes\POO\bin\Debug\netcoreapp2.1\POO.dll
+D:\Eduardo Interno\Workshops\VS Codes\POO\bin\Debug\netcoreapp2.1\POO.pdb
+D:\Eduardo Interno\Workshops\VS Codes\POO\obj\Debug\netcoreapp2.1\POO.csprojAssemblyReference.cache
+D:\Eduardo Interno\Workshops\VS Codes\POO\obj\Debug\netcoreapp2.1\POO.csproj.CoreCompileInputs.cache
+D:\Eduardo Interno\Workshops\VS Codes\POO\obj\Debug\netcoreapp2.1\POO.AssemblyInfoInputs.cache
+D:\Eduardo Interno\Workshops\VS Codes\POO\obj\Debug\netcoreapp2.1\POO.AssemblyInfo.cs
+D:\Eduardo Interno\Workshops\VS Codes\POO\obj\Debug\netcoreapp2.1\POO.dll
+D:\Eduardo Interno\Workshops\VS Codes\POO\obj\Debug\netcoreapp2.1\POO.pdb
