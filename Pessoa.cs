@@ -92,6 +92,17 @@ namespace POO
 
             // * Exibindo todas as informações de p2
             p2.exibirInformacoes();
+
+            // * Pular linha
+            Console.Write("\n");
+
+            // Criar um quadrado e imprime sua área
+            var quadrado = new Quadrado(3);
+            Console.WriteLine($"Área do quadrado: {quadrado.calcularArea()}");
+
+            // Criar um retângulo e imprime sua área
+            var retangulo = new Retangulo(2, 3);
+            Console.WriteLine($"Área do retângulo: {retangulo.calcularArea()}");
         }
     }
 }
