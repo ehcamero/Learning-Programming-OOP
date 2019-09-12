@@ -75,12 +75,15 @@ namespace POO
             // * Criando a pessoa 1 
             Pessoa p1 = new Pessoa(85, 1.85);
 
+            // * Pular linha
+            Console.Write("\n");
+
             // * Exibindo os dados da primeira pessoa (p1)
             Console.WriteLine($"Peso: {p1.peso}  kg");
             Console.WriteLine($"Altura: {p1.altura} m\n");
 
             // * Criando a pessoa 2
-            var p2 = new Pessoa("Eduardo", 90.1, 1.92);
+            var p2 = new Pessoa("Marcos", 90.1, 1.92);
 
             // * Exibindo os dados da segunda pessoa (p2)
             Console.WriteLine($"Peso: {p2.peso}  kg");
